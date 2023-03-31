@@ -1,6 +1,6 @@
 Name:		texlive-uppunctlm
 Version:	42334
-Release:	1
+Release:	2
 Summary:	Always keep upright shape for some punctuation marks and Arabic numerals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uppunctlm
