@@ -3,7 +3,7 @@ Version:	42334
 Release:	2
 Summary:	Always keep upright shape for some punctuation marks and Arabic numerals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uppunctlm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uppunctlm
 License:	gfsl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uppunctlm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uppunctlm.doc.r%{version}.tar.xz
